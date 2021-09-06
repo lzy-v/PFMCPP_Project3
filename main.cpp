@@ -57,17 +57,17 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Kung Fu Center
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of swords
+    2) number of students
+    3) number of teachers
+    4) amount of consciousness transfered per week
+    5) amount of conflicts avoided per month
 3 things it can do:
-    1)
-    2)
-    3)
+    1) train students
+    2) avoid conflicts
+    3) make the world a better place
  */
 
 /*
