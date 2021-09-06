@@ -85,17 +85,17 @@ Thing 2) Developer Center
  */
 
 /*
-Thing 3)
+Thing 3) Office
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of boring people
+    2) quantity of administrative tasks
+    3) amount of gatekeeping
+    4) number of useless meetings per day
+    5) amount of bitcoin cash generated
 3 things it can do:
-    1)
-    2)
-    3)
+    1) steal souls
+    2) brainwash employees into slavery
+    3) make money that just causes problems
  */
 
 /*
