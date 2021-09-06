@@ -99,17 +99,17 @@ Thing 3) Office
  */
 
 /*
-Thing 4)
+Thing 4) Jungle
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of monkeys
+    2) number of bananas
+    3) number of trees
+    4) variety of fauna
+    5) number of songs sung by birds
 3 things it can do:
-    1)
-    2)
-    3)
+    1) nurture earth
+    2) feed the monkeys
+    3) change the vibration
  */
 
 
