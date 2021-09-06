@@ -71,17 +71,17 @@ Thing 1) Kung Fu Center
  */
 
 /*
-Thing 2)
+Thing 2) Developer Center
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of monitors
+    2) speed of connectivity
+    3) opening and closing time
+    4) food and beverages
+    5) music and visuals
 3 things it can do:
-    1)
-    2)
-    3)
+    1) enable space for co-creation
+    2) feed and entretain developers
+    3) create technology
  */
 
 /*
