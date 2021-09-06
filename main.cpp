@@ -5,8 +5,7 @@ User-Defined Types
 
 Create a branch named Part1
 
-Purpose: The entire purpose of this 5-part project is to get you writing C++ code that compiles and to 
-reinforce the syntax habits that C++ requires.  
+Purpose: The entire purpose of this 5-part project is to get you writing C++ code that compiles and to reinforce the syntax habits that C++ requires.  
 What you create in this project will be used as the basis of Project 5 in the course.   
 
 ************************
