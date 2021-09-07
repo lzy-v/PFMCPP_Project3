@@ -65,23 +65,6 @@ Part1 will be broken up into 5 separate steps
 */
 
 /*
-Thing 10)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-
-
-
-/*
 Thing 1) Kung Fu Center
 5 properties:
     1) number of swords
@@ -137,7 +120,44 @@ Thing 4) Jungle
     3) change the vibration
  */
 
-
+ /*
+Thing 10) Laptop
+5 properties:
+    1) Display
+        resolution x (int)
+        resolution y (int)
+        contrast (double)
+        weight (int)
+        thickness (int) 
+    2) Keyboard
+        number of keys (int)
+        type of switches (std::string)
+        space between keys (int)
+        material of keycaps (std::string)
+        color of keysigns (std::string)
+    3) Mouse
+        type (std::string)
+        material (std::string)
+        brand (std::string)
+        sensitivity (int)
+        weight in mg (double)
+    4) Fan
+        revolutions per second (int)
+        noise in LUFS (int)
+        heat dispersed per minute (int)
+        number of blades (int)
+        brand (std::string)
+    5) Board
+        amount of ram in gb (int)
+        amount of storage in gb (int)
+        amount of graphics capacity in gb (int)
+        number of cores (int)
+        clock rate GHz (double)
+3 things it can do:
+    1) Visualize Data
+    2) Process Data
+    3) Follow Instructions
+ */
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
