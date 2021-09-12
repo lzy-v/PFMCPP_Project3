@@ -81,79 +81,6 @@ Part1 will be broken up into 5 separate steps
 */
 
 /*
-Thing 5) Display
-5 properties:
-    1) resolution x (int)
-    2) resolution y (int)
-    3) contrast (double)
-    4) weight (int)
-    5) thickness (int)
-3 things it can do:
-    1) 
-    2) 
-    3) 
- */
-
-/*
-Thing 6) Keyboard
-5 properties:
-    1) number of keys (int)
-    2) type of switches (std::string)
-    3) space between keys (int)
-    4) material of keycaps (std::string)
-    5) color of keysigns (std::string)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 7) Mouse
-5 properties:
-    1)type (std::string)
-    2) material (std::string)
-    3) brand (std::string)
-    4) sensitivity (int)
-    5) weight in mg (double)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 8) Fan
-5 properties:
-    1) revolutions per second (int)
-    2) noise in LUFS (int)
-    3) heat dispersed per minute (int)
-    4) number of blades (int)
-    5) brand (std::string)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 9) Board
-5 properties:
-    1) amount of ram in gb (int)
-    2) amount of storage in gb (int)
-    3) amount of graphics capacity in gb (int)
-    4) number of cores (int)
-    5) clock rate GHz (double)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-
-
-
-/*
 Thing 1) Kung Fu Center
 5 properties:
     1) number of swords
@@ -207,6 +134,76 @@ Thing 4) Jungle
     1) nurture earth
     2) feed the monkeys
     3) change the vibration
+ */
+
+ /*
+Thing 5) Display
+5 properties:
+    1) resolution x (int)
+    2) resolution y (int)
+    3) contrast (double)
+    4) weight (int)
+    5) thickness (int)
+3 things it can do:
+    1) display red
+    2) display green
+    3) display blue
+ */
+
+/*
+Thing 6) Keyboard
+5 properties:
+    1) number of keys (int)
+    2) type of switches (std::string)
+    3) space between keys (int)
+    4) material of keycaps (std::string)
+    5) color of keysigns (std::string)
+3 things it can do:
+    1) record keystrokes
+    2) adjust volume
+    3) adjust screen brightness
+ */
+
+/*
+Thing 7) Mouse
+5 properties:
+    1) type (std::string)
+    2) material (std::string)
+    3) brand (std::string)
+    4) sensitivity (int)
+    5) weight in mg (double)
+3 things it can do:
+    1) controll screen pointer
+    2) right click
+    3) left click
+ */
+
+/*
+Thing 8) Fan
+5 properties:
+    1) revolutions per second (int)
+    2) noise in LUFS (int)
+    3) heat dispersed per minute (int)
+    4) number of blades (int)
+    5) brand (std::string)
+3 things it can do:
+    1) regulate temperature
+    2) create noise polution
+    3) change revolutions
+ */
+
+/*
+Thing 9) Board
+5 properties:
+    1) amount of ram in gb (int)
+    2) amount of storage in gb (int)
+    3) amount of graphics capacity in gb (int)
+    4) number of cores (int)
+    5) clock rate GHz (double)
+3 things it can do:
+    1) process compute units
+    2) process graphic units
+    3) distribute workload
  */
 
  /*
