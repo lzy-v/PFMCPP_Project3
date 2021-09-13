@@ -83,11 +83,11 @@ Part1 will be broken up into 5 separate steps
 /*
 Thing 1) Kung Fu Center
 5 properties:
-    1) number of swords
-    2) number of students
-    3) number of teachers
-    4) amount of consciousness transfered per week
-    5) amount of conflicts avoided per month
+    1) number of swords (int)
+    2) number of students (int)
+    3) number of teachers (int)
+    4) amount of consciousness transfered per week (int)
+    5) amount of conflicts avoided per month (int)
 3 things it can do:
     1) train students
     2) avoid conflicts
@@ -97,11 +97,11 @@ Thing 1) Kung Fu Center
 /*
 Thing 2) Developer Center
 5 properties:
-    1) number of monitors
-    2) speed of connectivity
-    3) opening and closing time
-    4) food and beverages
-    5) music and visuals
+    1) number of monitors (int)
+    2) speed of connectivity (int)
+    3) opening and closing time (float)
+    4) food and beverages (std::string)
+    5) music and visuals (std::string)
 3 things it can do:
     1) enable space for co-creation
     2) feed and entretain developers
@@ -111,11 +111,11 @@ Thing 2) Developer Center
 /*
 Thing 3) Office
 5 properties:
-    1) number of boring people
-    2) quantity of administrative tasks
-    3) amount of gatekeeping
-    4) number of useless meetings per day
-    5) amount of bitcoin cash generated
+    1) number of boring people (int)
+    2) quantity of administrative tasks (int)
+    3) amount of gatekeeping (int)
+    4) number of useless meetings per day (int)
+    5) amount of bitcoin cash generated (float)
 3 things it can do:
     1) steal souls
     2) brainwash employees into slavery
@@ -125,11 +125,11 @@ Thing 3) Office
 /*
 Thing 4) Jungle
 5 properties:
-    1) number of monkeys
-    2) number of bananas
-    3) number of trees
-    4) variety of fauna
-    5) number of songs sung by birds
+    1) number of monkeys (int)
+    2) number of bananas (int)
+    3) number of trees (int)
+    4) variety of fauna (int)
+    5) number of songs sung by birds (int)
 3 things it can do:
     1) nurture earth
     2) feed the monkeys
