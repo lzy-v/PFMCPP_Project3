@@ -150,6 +150,30 @@ Thing 1) Kung Fu Center
     3) make the world a better place
  */
 
+ struct KungFuCenter 
+ // 1) defined struct for type 1.       
+{
+    // number of swords
+    // 2) copied and commented-out plain-english property
+    int numberOfSwords = 64;
+    // 3) member variables with relevant data types.
+    // number of students
+    int numberOfStudents = 8;     
+    // number of teachers     
+    int numberOfTeachers = 1;            
+    // amount of consciousness transfered per week
+    int consciousnessPerWeek = 108;               
+    // amount of conflicts avoided per month               
+    int conflictsAvoidPerMonth = 11;               
+
+    // train students
+    bool trainStudents(int student);
+    // avoid conflicts
+    bool avoidConflict(std::string conflict);
+    // make the world a better place
+    bool makeTheWorldBetter(std::string whatIsBetterAnyway);
+};
+
 /*
 Thing 2) Developer Center
 5 properties:
@@ -163,6 +187,7 @@ Thing 2) Developer Center
     2) feed and entretain developers
     3) create technology
  */
+ 
 
 /*
 Thing 3) Office
